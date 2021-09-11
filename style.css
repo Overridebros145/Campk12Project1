@@ -1,0 +1,17 @@
+.header{
+    text-align:center;
+}
+img{
+    border-radius:50%;
+    filter: grayscale(100%);
+}
+.wiki{
+    font-family: 'Oswald', sans-serif;
+    /*padding:5em 5em 1em 5em ; Top Right Bottom Left */
+}
+body{
+    background-color: whitesmoke;
+}
+.video{
+    text-align:center;
+}
